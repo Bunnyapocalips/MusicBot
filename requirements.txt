@@ -2,5 +2,6 @@ https://github.com/Rapptz/discord.py/archive/async.zip
 youtube_dl >= 2016.4.24
 cffi
 cryptography
-opus
+https://archive.mozilla.org/pub/opus/win32/opusfile-0.7-win32.zip
+https://archive.mozilla.org/pub/opus/win32/opus-tools-0.1.9-win32.zip
 
