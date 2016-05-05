@@ -2,16 +2,8 @@ https://github.com/Rapptz/discord.py/archive/async.zip
 youtube_dl >= 2016.4.24
 cffi
 cryptography
-sudo apt-get install software-properties-common 
-sudo add-apt-repository ppa:fkrull/deadsnakes 
-sudo add-apt-repository ppa:mc3man/trusty-media 
-sudo apt-get update 
-sudo apt-get upgrade 
-sudo apt-get install build-essential unzip 
-sudo apt-get install git 
-sudo apt-get install python3.5 python3.5-dev 
-sudo apt-get install ffmpeg 
-sudo apt-get install libopus-dev 
-sudo apt-get install libffi-dev 
-sudo apt-get install libsodium-dev 
+ffmpeg
+libopus-dev
+libffi-dev
+libsodium-dev
 
