@@ -2,3 +2,9 @@ https://github.com/Rapptz/discord.py/archive/async.zip
 youtube_dl >= 2016.4.24
 cffi
 cryptography
+https://github.com/dalloro/heroku-buildpack-licode
+opus
+opus library
+https://github.com/dalloro/heroku-buildpack-licode/blob/master/bin/compile
+https://github.com/dalloro/heroku-buildpack-licode/blob/master/bin/detect
+https://github.com/dalloro/heroku-buildpack-licode/blob/master/bin/release
